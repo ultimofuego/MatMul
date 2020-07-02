@@ -8,6 +8,7 @@ Matrix multiplication CPU + GPU compare
 1. Make new CUDA-project.
 2. Include in the project "matM.cu".
 ## System configuration
+|-------|---------|
 | CPU  | Intel® Pentium® G3430 |
 | RAM  | 4 GB DDR3 |
 | GPU  | GeForce GTX 750 Ti 2GB |
