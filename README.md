@@ -10,7 +10,7 @@ Matrix multiplication CPU + GPU compare
 ## System configuration
 | Name  | Values  |
 |-------|---------|
-| CPU  | Intel® Pentium® G3430 |
+| CPU  | Intel® Pentium® G3430 (2x3.30 GHz) |
 | RAM  | 4 GB DDR3 |
 | GPU  | GeForce GTX 750 Ti 2GB |
 | OS   | Windows 10 64-bit  |
